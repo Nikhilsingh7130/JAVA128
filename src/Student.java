@@ -5,6 +5,6 @@ abstract class Student {
         this.name = name;
         this.roll_no = roll_no;
     }
-    abstract class attend_class()
-    abstract class give_exam();
+    abstract void attend_class();
+    abstract void give_exam();
 }
