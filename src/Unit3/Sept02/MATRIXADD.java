@@ -1,4 +1,4 @@
-package Unit3.Sept1;
+package Unit3.Sept02;
 import java.util.Scanner;
 public class MATRIXADD {
     public static void main(String[] args) {
